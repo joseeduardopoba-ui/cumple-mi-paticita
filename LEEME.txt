@@ -1,0 +1,25 @@
+REGALO DIGITAL DE CUMPLEAÑOS PARA PATRICIA ✨
+
+Personalizar fotos:
+1. Abre la carpeta assets.
+2. Coloca cuatro fotos de ustedes con estos nombres exactos:
+   foto1.jpg, foto2.jpg, foto3.jpg, foto4.jpg
+3. Se recomiendan fotos verticales. Si tus fotos son PNG, conviértelas a JPG o cambia las extensiones en index.html.
+
+Personalizar la carta:
+Abre index.html y edita el texto dentro de <article class="letter">.
+La página menciona el reencuentro del 30 de octubre de 2026.
+
+Probar en tu computadora:
+Abre index.html con Chrome, Edge o Safari.
+
+Publicar con GitHub Pages:
+1. Crea un repositorio nuevo en GitHub, por ejemplo: cumple-paticita.
+2. Sube index.html, styles.css, script.js y la carpeta assets.
+3. Ve a Settings > Pages.
+4. En Build and deployment elige Deploy from a branch.
+5. Selecciona la rama main y la carpeta /(root), y guarda.
+6. Espera a que GitHub Pages publique el sitio y abre la URL que te muestre.
+7. Envía el enlace a Patricia por WhatsApp.
+
+La página no necesita bases de datos ni servicios de pago. Usa Google Fonts para su tipografía; sin internet, usa fuentes de respaldo.
